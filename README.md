@@ -1,4 +1,4 @@
-iptables-persistent
+raspbian-iptables-persistent
 ===================
 
 Based on Debian's iptables-persistent package that loads iptables rules using rules specified at `/etc/iptables/rules`
