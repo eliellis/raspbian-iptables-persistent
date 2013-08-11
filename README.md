@@ -11,7 +11,13 @@ Provided is an example set of rules as quickstart. **You should review it and ad
 
 ### Installation
 
-To use:
+Automatic:
+
+* change directory into `raspbian-iptables-persistent`
+
+* run `sudo ./install.sh`
+
+Manual:
 
 * copy the init.d script `iptables-persistent` to `/etc/init.d/` and make it executable 
 
